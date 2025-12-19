@@ -64,16 +64,10 @@ This project was built to demonstrate:
 <table>
   <tr>
     <td align="center">
-      <img
-        src="https://github.com/user-attachments/assets/48e26fbc-6887-46a6-b14f-562710bae796"
-        width="220"
-      />
+      <img width="432" height="892" alt="pop-screen" src="https://github.com/user-attachments/assets/49d1a643-3449-4b53-8512-51ccd100560d" />
     </td>
     <td align="center">
-      <img
-        src="IMAGE_URL_2"
-        width="220"
-      />
+      <img width="432" height="892" alt="pop-screen" src="https://github.com/user-attachments/assets/49d1a643-3449-4b53-8512-51ccd100560d" />
     </td>
     <td align="center">
       <img
