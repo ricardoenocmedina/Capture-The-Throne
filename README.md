@@ -67,13 +67,10 @@ This project was built to demonstrate:
       <img width="220" alt="pop-screen" src="https://github.com/user-attachments/assets/49d1a643-3449-4b53-8512-51ccd100560d" />
     </td>
     <td align="center">
-      <img width="432" height="892" alt="pop-screen" src="https://github.com/user-attachments/assets/49d1a643-3449-4b53-8512-51ccd100560d" />
+      <img width="220" alt="login-screen" src="https://github.com/user-attachments/assets/9918017f-fbc3-4678-8e46-ae0cda77759a" />
     </td>
     <td align="center">
-      <img
-        src="IMAGE_URL_3"
-        width="220"
-      />
+      <img width="220" alt="first-scene" src="https://github.com/user-attachments/assets/20a9e37d-b35c-4f91-a6c5-797655babf06" />
     </td>
   </tr>
 </table>
