@@ -60,6 +60,27 @@ This project was built to demonstrate:
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/48e26fbc-6887-46a6-b14f-562710bae796"
+        width="220"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="IMAGE_URL_2"
+        width="220"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="IMAGE_URL_3"
+        width="220"
+      />
+    </td>
+  </tr>
+</table>
 
-_Add screenshots or GIFs here to showcase gameplay._
