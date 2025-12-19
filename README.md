@@ -89,3 +89,11 @@ This project was built to demonstrate:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <img width="220" alt="crown" src="https://github.com/user-attachments/assets/be77c91b-5a75-4295-bb09-e73f9bfe787b" />
+    </td>
+  </tr>
+</table>
+
