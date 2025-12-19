@@ -75,3 +75,17 @@ This project was built to demonstrate:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <img width="220" alt="food" src="https://github.com/user-attachments/assets/2fb99372-1553-440c-9af1-0ec5adaeb282" />
+    </td>
+    <td align="center">
+      <img width="220" alt="weapon" src="https://github.com/user-attachments/assets/7034ab73-3b99-42cd-9ee3-501ea86b29ad" />
+    </td>
+    <td align="center">
+      <img width="220" alt="key" src="https://github.com/user-attachments/assets/09d82e38-0926-4aa0-852c-5fafb52fa8e6" />
+    </td>
+  </tr>
+</table>
+
