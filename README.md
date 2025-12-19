@@ -1,4 +1,65 @@
-# Capture The Throne
+# 🏰 Capture the Throne
 
-This reposit
-<img width="458" height="973" alt="Screenshot 2025-12-19 at 3 15 46 PM" src="https://github.com/user-attachments/assets/96fb507f-097e-4447-a447-9217828c4549" />
+**Capture the Throne** is a Swift-based adventure game where players explore a castle, collect resources, battle enemies, and ultimately claim the throne. The objective is simple but challenging: survive long enough to find the key, locate the castle, defeat any opponents in your path, and crown yourself king.
+
+---
+
+## 🎮 Gameplay Overview
+
+- Explore interconnected rooms throughout the map  
+- Search rooms to collect **food** and **weapons**  
+- Manage limited resources to stay alive  
+- Encounter and fight opponents as you progress  
+- Find the **key** required to unlock the castle  
+- Enter the **throne room** and claim victory  
+
+The game emphasizes exploration, decision-making, and progression through a custom-designed environment.
+
+---
+
+## 🔐 Authentication & Data Persistence
+
+This project integrates backend services and local storage to enhance the player experience:
+
+- **Firebase Authentication**
+  - Allows users to securely log in and maintain unique player sessions
+
+- **UserDefaults**
+  - Stores player data locally, such as game progress and state
+  - Ensures progress persists between app launches
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Swift  
+- **Platform:** iOS  
+- **Backend Services:** Firebase Auth  
+- **Local Storage:** UserDefaults  
+- **Architecture:** UIKit-based iOS application  
+
+---
+
+## 🚀 Features
+
+- Text-based command input for player actions  
+- Inventory system for collected items  
+- Room-based navigation and exploration  
+- Persistent game state saving  
+- Custom game map and interactions  
+
+---
+
+## 📌 Project Purpose
+
+This project was built to demonstrate:
+- iOS development with Swift  
+- Game logic and state management  
+- Authentication and data persistence  
+- Clean code structure and documentation  
+
+---
+
+## 📷 Screenshots (Optional)
+
+_Add screenshots or GIFs here to showcase gameplay._
